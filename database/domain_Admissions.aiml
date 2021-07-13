@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+
+<meta name="language" content="en"/>
+
+
+	<category>
+      <pattern>UNDERTAKING DEAN ADMISSIONS</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the undertaking by Dean Admissions : https://www.rymec.in/index.php/admissions/fee-structure</li>
+			<li>Please goto this link to view the undertaking by Dean Admissions : https://www.rymec.in/index.php/admissions/fee-structure</li>
+			<li>Have a look over here to view the undertaking by Dean Admissions : https://www.rymec.in/index.php/admissions/fee-structure</li>
+		</random>
+	  </template>
+    </category>
+
+	<category>
+      <pattern>ELIGIBILITY CRITERIA</pattern>
+      <template>
+		A candidate who has passed the Karnataka 2nd PUC / 12th Std. / 10+2 / Intermediate or equivalent Qualifying Examination with Physics and Mathematics as compulsory subjects along with Chemistry / Bio‐Technology / Biology / Electronics / Computer Science as optional subjects with English as one of the languages of study and obtained an aggregate minimum of 45% marks.
+		For, SC, ST, Category I and OBC (2A, 2B, 3A and 3B) Category candidates, the minimum marks is 40% in aggregate.
+		Provided that, the marks obtained by the candidate in Bio‐Technology / Biology / Electronics / Computer Science in the Q. E., will be considered in place of Chemistry, in case the marks obtained in Chemistry is less for required aggregate percentage, only for the purpose of determination of eligibility and not for the purpose of determination of rank, in respect of Engineering / Technology courses.
+	  </template>
+    </category>
+
+	<category>
+      <pattern>FIRST YEAR ADMISSIONS</pattern>
+      <template>
+		<random>
+			<li>Admissions are opened for the academic year 2021-2022 Click on this link to view the details of Admissions : http://www.rymec.edu/About/Administration/DeanAdmissions.aspx</li>
+			<li>Please goto this link to view the details of Dean Admissions : http://www.rymec.edu/About/Administration/DeanAdmissions.aspx</li>
+			<li>Admissions are opened for the academic year 2021-2022 Have a look over here to view the details of Admissions : http://www.rymec.in/index.php/admissions/admission-criteria</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>NRI</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the details of NRI Admission Procedure : http://nri-admissions.org/</li>
+			<li>Please goto this link to view the details of NRI Admission Procedure : http://nri-admissions.org/</li>
+			<li>Have a look over here to view the details of NRI Admission Procedure : http://nri-admissions.org/</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>ADMISSIONS</pattern>
+      <template>
+		<random>
+			<li>Admissions are open for UNDERGRADUATE COURSE(BE REGULAR,LATERAL ENTRY) and POST GRADUATE COURSE(M.TECH,MBA).</li>
+			<li>Admissions are open for UNDERGRADUATE COURSE(BE REGULAR,LATERAL ENTRY) and POST GRADUATE COURSE(M.TECH,MBA).</li>
+			<li>Admissions are open for UNDERGRADUATE COURSE(BE REGULAR,LATERAL ENTRY) and POST GRADUATE COURSE(M.TECH,MBA).</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>FIRST YEAR BE ADMISSIONS</pattern>
+      <template>
+		<random>
+			<li>Admissions are open for UNDERGRADUATE COURSE(BE REGULAR,LATERAL ENTRY)</li>
+			<li>Admissions are open for UNDERGRADUATE COURSE(BE REGULAR,LATERAL ENTRY)</li>
+			<li>Admissions are open for UNDERGRADUATE COURSE(BE REGULAR,LATERAL ENTRY)</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+	 <pattern>ELIGIBILITY CRITERIA FOR THE ADMISSIONS BE</pattern>
+      <template>
+		<random>
+			<li>A candidate who has passed the Karnataka 2nd PUC / 12th Std. / 10+2 / Intermediate or equivalent Qualifying Examination with Physics and Mathematics as compulsory subjects along with Chemistry / Bio‐Technology / Biology / Electronics / Computer Science as optional subjects with English as one of the languages of study and obtained an aggregate minimum of 45% marks.
+                For, SC, ST, Category I and OBC (2A, 2B, 3A and 3B) Category candidates, the minimum marks is 40% in aggregate.
+                Provided that, the marks obtained by the candidate in Bio‐Technology / Biology / Electronics / Computer Science in the Q. E., will be considered in place of Chemistry, in case the marks obtained in Chemistry is less for required aggregate percentage, only for the purpose of determination of eligibility and not for the purpose of determination of rank, in respect of Engineering / Technology courses.</li>
+			<li>A candidate who has passed the Karnataka 2nd PUC / 12th Std. / 10+2 / Intermediate or equivalent Qualifying Examination with Physics and Mathematics as compulsory subjects along with Chemistry / Bio‐Technology / Biology / Electronics / Computer Science as optional subjects with English as one of the languages of study and obtained an aggregate minimum of 45% marks.
+                For, SC, ST, Category I and OBC (2A, 2B, 3A and 3B) Category candidates, the minimum marks is 40% in aggregate.
+                Provided that, the marks obtained by the candidate in Bio‐Technology / Biology / Electronics / Computer Science in the Q. E., will be considered in place of Chemistry, in case the marks obtained in Chemistry is less for required aggregate percentage, only for the purpose of determination of eligibility and not for the purpose of determination of rank, in respect of Engineering / Technology courses.</li>
+			<li>A candidate who has passed the Karnataka 2nd PUC / 12th Std. / 10+2 / Intermediate or equivalent Qualifying Examination with Physics and Mathematics as compulsory subjects along with Chemistry / Bio‐Technology / Biology / Electronics / Computer Science as optional subjects with English as one of the languages of study and obtained an aggregate minimum of 45% marks.
+                For, SC, ST, Category I and OBC (2A, 2B, 3A and 3B) Category candidates, the minimum marks is 40% in aggregate.
+                Provided that, the marks obtained by the candidate in Bio‐Technology / Biology / Electronics / Computer Science in the Q. E., will be considered in place of Chemistry, in case the marks obtained in Chemistry is less for required aggregate percentage, only for the purpose of determination of eligibility and not for the purpose of determination of rank, in respect of Engineering / Technology courses.</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>SEAT DISTRIBUTION ADMISSION FIRST YEAR BE</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the seat distribution for  First Year BE Admissions : http://www.rymec.edu/Admissions/First-Year.aspx#</li>
+			<li>Please goto this link to view the seat distribution for First Year BE Admissions : http://www.rymec.edu/Admissions/First-Year.aspx#</li>
+			<li>Have a look over here to view the seat distribution for First Year BE Admissions : http://www.rymec.edu/Admissions/First-Year.aspx#</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>DOCUMENTS ADMISSION FIRST YEAR BE</pattern>
+      <template>
+		Admission Order (College copy).
+Amount Paid Challan (College copy).
+SSLC Original Marks Card.
+PUC / XII Std. Original Marks Card.
+PUC / XII Std. Transfer Certificate.
+Study Certificates from I Std. to PUC.
+Caste and Income Certificate (If applicable).
+371J Hyderabad Karnataka Eligibility Certificate (If applicable).
+Aadhaar Card.
+Photo.
+One Set Original and Three Sets Xerox in the above order.
+	  </template>
+    </category>
+	<category>
+      <pattern>FEE STRUCTURE FOR BE</pattern>
+      <template>
+		All the students of 2nd year studied in science stream are hereby informed to fee structure for MANAGMENT QUOTA for the year 2020-21 FEE STRUCTURE (TUTION FEE) KAR/NON-KAR FOR      CIVIL ENGINEERING(TUTION FEE): 90000 + (university and other fees): 23000
+		 MECHANICAL ENGINEERING (TUTION FEE): 71000 + (university and other fees): 23000
+		 ELECTRICAL AND ELECTRONICS ENGINEERING (TUTION FEE): 71000 + (university and other fees): 23000
+		 ELECTRONICS AND COMMUNICATION ENGINEERING (TUTION FEE): 71000 + (university and other fees): 23000
+		 COMPUTER SCIENCE AND ENGINEERING (TUTION FEE): 85000 + (university and other fees): 23000
+		   INFORMATION SCIENCE AND ENGINEERING (TUTION FEE): 71000 + (university and other fees): 23000 
+			
+	  </template>
+    </category>
+	<category>
+      <pattern>FEE STRUCTURE</pattern>
+      <template>
+		
+		All the students of 2nd year studied in science stream are hereby informed to fee structure for MANAGMENT QUOTA for the year 2020-21 FEE STRUCTURE (TUTION FEE) KAR/NON-KAR FOR      CIVIL ENGINEERING(TUTION FEE): 90000 + (niversity and other fees): 23000
+		 MECHANICAL ENGINEERING (TUTION FEE): 71000 + (university and other fees): 23000
+		 ELECTRICAL AND ELECTRONICS ENGINEERING (TUTION FEE): 71000 + (university and other fees): 23000
+		 ELECTRONICS AND COMMUNICATION ENGINEERING (TUTION FEE): 71000 + (university and other fees): 23000
+		 COMPUTER SCIENCE AND ENGINEERING (TUTION FEE): 85000 + (university and other fees): 23000
+		   INFORMATION SCIENCE AND ENGINEERING (TUTION FEE): 71000 + (university and other fees): 23000 
+		   
+	  </template>
+    </category>
+	<category>
+      <pattern>ADMISSION PROCEDURE FOR BE</pattern>
+      <template>
+		<random>
+			<li>FOR UNDERGRADUATE(REGULAR),Admission Order (College copy),Amount Paid Challan (College copy),SSLC Original Marks Card,PUC / XII Std. Original Marks Card,PUC / XII Std. Transfer Certificate,Study Certificates from I Std. to PUC,Caste and Income Certificate (If applicable),Hyderabad Karnataka Eligibility Certificate (If applicable),Aadhaar Card,photo,One Set Original and Three Sets Xerox in the above order.</li>
+			<li>FOR UNDERGRADUATE(REGULAR),Admission Order (College copy),Amount Paid Challan (College copy),SSLC Original Marks Card,PUC / XII Std. Original Marks Card,PUC / XII Std. Transfer Certificate,Study Certificates from I Std. to PUC,Caste and Income Certificate (If applicable),Hyderabad Karnataka Eligibility Certificate (If applicable),Aadhaar Card,photo,One Set Original and Three Sets Xerox in the above order.</li>
+			<li>FOR UNDERGRADUATE(REGULAR),Admission Order (College copy),Amount Paid Challan (College copy),SSLC Original Marks Card,PUC / XII Std. Original Marks Card,PUC / XII Std. Transfer Certificate,Study Certificates from I Std. to PUC,Caste and Income Certificate (If applicable),Hyderabad Karnataka Eligibility Certificate (If applicable),Aadhaar Card,photo,One Set Original and Three Sets Xerox in the above order.</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>ADMISSION PROCEDURE FOR LATERAL ENTRY BE</pattern>
+      <template>
+		<random>
+			<li>FOR UNDERGRADUATE(REGULAR),Admission Order (College copy),Amount Paid Challan (College copy),SSLC Original Marks Card,Diploma Original Marks Cards of all Semesters,Degree Certificate (DC) / Provisional Degree Certificate (PDC) / Course completion Certificate (CC),Degree Transfer Certificate,Study Certificates from I Std. to Diploma,Caste and Income Certificate (If applicable),Hyderabad Karnataka Eligibility Certificate (If applicable),Aadhaar Card,photo,One Set Original and Three Sets Xerox in the above order.</li>
+			<li>FOR UNDERGRADUATE(REGULAR),Admission Order (College copy),Amount Paid Challan (College copy),SSLC Original Marks Card,Diploma Original Marks Cards of all Semesters,Degree Certificate (DC) / Provisional Degree Certificate (PDC) / Course completion Certificate (CC),Degree Transfer Certificate,Study Certificates from I Std. to Diploma,Caste and Income Certificate (If applicable),Hyderabad Karnataka Eligibility Certificate (If applicable),Aadhaar Card,photo,One Set Original and Three Sets Xerox in the above order.</li>
+			<li>FOR UNDERGRADUATE(REGULAR),Admission Order (College copy),Amount Paid Challan (College copy),SSLC Original Marks Card,Diploma Original Marks Cards of all Semesters,Degree Certificate (DC) / Provisional Degree Certificate (PDC) / Course completion Certificate (CC),Degree Transfer Certificate,Study Certificates from I Std. to Diploma,Caste and Income Certificate (If applicable),Hyderabad Karnataka Eligibility Certificate (If applicable),Aadhaar Card,photo,One Set Original and Three Sets Xerox in the above order.</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>ADMISSION PROCEDURE FOR POST GRADUATE COURSE M.TECH</pattern>
+      <template>
+		<random>
+			<li>FOR UNDERGRADUATE(REGULAR),Admission Order (College copy),Amount Paid Challan (College copy),SSLC Original Marks Card,B.E Degree Original Marks Cards of all Semesters,Degree Certificate (DC) / Provisional Degree Certificate (PDC) / Course completion Certificate (CC),Degree Transfer Certificate,Study Certificates from I Std. to Diploma,Caste and Income Certificate (If applicable),Hyderabad Karnataka Eligibility Certificate (If applicable),Aadhaar Card,photo,One Set Original and Three Sets Xerox in the above order.</li>
+			<li>FOR UNDERGRADUATE(REGULAR),Admission Order (College copy),Amount Paid Challan (College copy),SSLC Original Marks Card,B.E Degree Original Marks Cards of all Semesters,Degree Certificate (DC) / Provisional Degree Certificate (PDC) / Course completion Certificate (CC),Degree Transfer Certificate,Study Certificates from I Std. to Diploma,Caste and Income Certificate (If applicable),Hyderabad Karnataka Eligibility Certificate (If applicable),Aadhaar Card,photo,One Set Original and Three Sets Xerox in the above order.</li>
+			<li>FOR UNDERGRADUATE(REGULAR),Admission Order (College copy),Amount Paid Challan (College copy),SSLC Original Marks Card,B.E Degree Original Marks Cards of all Semesters,Degree Certificate (DC) / Provisional Degree Certificate (PDC) / Course completion Certificate (CC),Degree Transfer Certificate,Study Certificates from I Std. to Diploma,Caste and Income Certificate (If applicable),Hyderabad Karnataka Eligibility Certificate (If applicable),Aadhaar Card,photo,One Set Original and Three Sets Xerox in the above order.</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>ADMISSION PROCEDURE FOR POST GRADUATE COURSE MBA</pattern>
+      <template>
+		<random>
+			<li>FOR UNDERGRADUATE(REGULAR),Admission Order (College copy),Amount Paid Challan (College copy),SSLC Original Marks Card,B.E Degree Original Marks Cards of all Semesters,Degree Certificate (DC) / Provisional Degree Certificate (PDC) / Course completion Certificate (CC),Degree Transfer Certificate,Study Certificates from I Std. to Diploma,Caste and Income Certificate (If applicable),Hyderabad Karnataka Eligibility Certificate (If applicable),Aadhaar Card,photo,One Set Original and Three Sets Xerox in the above order.</li>
+			<li>FOR UNDERGRADUATE(REGULAR),Admission Order (College copy),Amount Paid Challan (College copy),SSLC Original Marks Card,B.E Degree Original Marks Cards of all Semesters,Degree Certificate (DC) / Provisional Degree Certificate (PDC) / Course completion Certificate (CC),Degree Transfer Certificate,Study Certificates from I Std. to Diploma,Caste and Income Certificate (If applicable),Hyderabad Karnataka Eligibility Certificate (If applicable),Aadhaar Card,photo,One Set Original and Three Sets Xerox in the above order.</li>
+			<li>FOR UNDERGRADUATE(REGULAR),Admission Order (College copy),Amount Paid Challan (College copy),SSLC Original Marks Card,B.E Degree Original Marks Cards of all Semesters,Degree Certificate (DC) / Provisional Degree Certificate (PDC) / Course completion Certificate (CC),Degree Transfer Certificate,Study Certificates from I Std. to Diploma,Caste and Income Certificate (If applicable),Hyderabad Karnataka Eligibility Certificate (If applicable),Aadhaar Card,photo,One Set Original and Three Sets Xerox in the above order.</li>
+		</random>
+	  </template>
+    </category>
+	
+	<category>
+      <pattern>SEAT DISTRIBUTION ADMISSION DIRECT SECOND YEAR BE</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the seat distribution for  Direct Second Year BE Admissions : http://www.rymec.edu/Admissions/AdmissionDirect2ndYearBE.aspx#</li>
+			<li>Please goto this link to view the seat distribution for Direct Second Year BE Admissions : http://www.rymec.edu/Admissions/AdmissionDirect2ndYearBE.aspx#</li>
+			<li>Have a look over here to view the seat distribution for Direct Second Year BE Admissions : http://www.rymec.edu/Admissions/AdmissionDirect2ndYearBE.aspx#</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>APPROVED INTAKE FOR COMPUTER SCIENCE</pattern>
+      <template>
+		<random>
+			<li>Intake 120, AICTE 5% extra intake SNQ 6. Total intake 126</li>
+			<li>Intake 120, AICTE 5% extra intake SNQ 6. Total intake 126</li>
+			<li>Intake 120, AICTE 5% extra intake SNQ 6. Total intake 126</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>APPROVED INTAKE FOR CIVIL ENGINEERING</pattern>
+      <template>
+		<random>
+			<li>Intake 120, AICTE 5% extra intake SNQ 6. Total intake 126</li>
+			<li>Intake 120, AICTE 5% extra intake SNQ 6. Total intake 126</li>
+			<li>Intake 120, AICTE 5% extra intake SNQ 6. Total intake 126</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>APPROVED INTAKE FOR MECHANICAL ENGINEERING</pattern>
+      <template>
+		<random>
+			<li>Intake 120, AICTE 5% extra intake SNQ 6. Total intake 126</li>
+			<li>Intake 120, AICTE 5% extra intake SNQ 6. Total intake 126</li>
+			<li>Intake 120, AICTE 5% extra intake SNQ 6. Total intake 126</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>APPROVED INTAKE FOR ELECTRICAL AND ELECTRONICS ENGINNERING</pattern>
+      <template>
+		<random>
+			<li>Intake 120, AICTE 5% extra intake SNQ 6. Total intake 126</li>
+			<li>Intake 120, AICTE 5% extra intake SNQ 6. Total intake 126</li>
+			<li>Intake 120, AICTE 5% extra intake SNQ 6. Total intake 126</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>APPROVED INTAKE FOR ELECTRONICS AND COMMUNICATION ENGINEERING</pattern>
+      <template>
+		<random>
+			<li>Intake 120, AICTE 5% extra intake SNQ 6. Total intake 126</li>
+			<li>Intake 120, AICTE 5% extra intake SNQ 6. Total intake 126</li>
+			<li>Intake 120, AICTE 5% extra intake SNQ 6. Total intake 126</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>APPROVED INTAKE FOR INFORMATION SCIENCE AND ENGINEERING</pattern>
+      <template>
+		<random>
+			<li>Intake 60, AICTE 5% extra intake SNQ 3. Total intake 63</li>
+			<li>Intake 60, AICTE 5% extra intake SNQ 3. Total intake 63</li>
+			<li>Intake 60, AICTE 5% extra intake SNQ 3. Total intake 63</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>DOCUMENTS ADMISSION DIRECT SECOND YEAR BE</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the documents required for  Direct Second Year BE Admissions : http://www.rymec.edu/Admissions/AdmissionDirect2ndYearBE.aspx#</li>
+			<li>Please goto this link to view the documents required for Direct Second Year BE Admissions : http://www.rymec.edu/Admissions/AdmissionDirect2ndYearBE.aspx#</li>
+			<li>Have a look over here to view the documents required for Direct Second Year BE Admissions : http://www.rymec.edu/Admissions/AdmissionDirect2ndYearBE.aspx#</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>FEE STRUCTURE DIRECT SECOND YEAR BE</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the fee structure for  Direct Second Year BE Admissions : http://www.rymec.edu/Admissions/AdmissionDirect2ndYearBE.aspx#</li>
+			<li>Please goto this link to view the fee structure required for Direct Second Year BE Admissions : http://www.rymec.edu/Admissions/AdmissionDirect2ndYearBE.aspx#</li>
+			<li>Have a look over here to view the fee structure for Direct Second Year BE Admissions : http://www.rymec.edu/Admissions/AdmissionDirect2ndYearBE.aspx#</li>
+		</random>
+	  </template>
+    </category>
+	
+	<category>
+      <pattern>SEAT DISTRIBUTION ADMISSION MBA</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the seat distribution for  MBA Admissions : http://www.rymec.edu/Admissions/AdmissionMBA.aspx#</li>
+			<li>Please goto this link to view the seat distribution for MBA Admissions : http://www.rymec.edu/Admissions/AdmissionMBA.aspx#</li>
+			<li>Have a look over here to view the seat distribution for MBA Admissions : http://www.rymec.edu/Admissions/AdmissionMBA.aspx#</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>DOCUMENTS ADMISSION MBA</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the documents required for MBA Admissions : http://www.rymec.edu/Admissions/AdmissionMBA.aspx#</li>
+			<li>Please goto this link to view the documents required for MBA Admissions : http://www.rymec.edu/Admissions/AdmissionMBA.aspx#</li>
+			<li>Have a look over here to view the documents required for MBA Admissions : http://www.rymec.edu/Admissions/AdmissionMBA.aspx#</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>FEE STRUCTURE MBA</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the fee structure for MBA Admissions : http://www.rymec.edu/Admissions/AdmissionMBA.aspx#</li>
+			<li>Please goto this link to view the fee structure required for MBA Admissions : http://www.rymec.edu/Admissions/AdmissionMBA.aspx#</li>
+			<li>Have a look over here to view the fee structure for MBA Admissions : http://www.rymec.edu/Admissions/AdmissionMBA.aspx#</li>
+		</random>
+	  </template>
+    </category>
+	
+	<category>
+      <pattern>SEAT DISTRIBUTION ADMISSION MBA INTEGRATED</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the seat distribution for  MBA Integrated Admissions : http://www.rymec.edu/Admissions/AdmissionMBAIntegrated.aspx#</li>
+			<li>Please goto this link to view the seat distribution for MBA Integrated Admissions : http://www.rymec.edu/Admissions/AdmissionMBAIntegrated.aspx#</li>
+			<li>Have a look over here to view the seat distribution for MBA Integrated Admissions : http://www.rymec.edu/Admissions/AdmissionMBAIntegrated.aspx#</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>DOCUMENTS ADMISSION MBA INTEGRATED</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the documents required for MBA Integrated Admissions : http://www.rymec.edu/Admissions/AdmissionMBAIntegrated.aspx#</li>
+			<li>Please goto this link to view the documents required for MBA Integrated Admissions : http://www.rymec.edu/Admissions/AdmissionMBAIntegrated.aspx#</li>
+			<li>Have a look over here to view the documents required for MBA Integrated Admissions : http://www.rymec.edu/Admissions/AdmissionMBAIntegrated.aspx#</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>FEE STRUCTURE MBA INTEGRATED</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the fee structure for MBA Integrated Admissions : http://www.rymec.edu/Admissions/AdmissionMBAIntegrated.aspx#</li>
+			<li>Please goto this link to view the fee structure required for MBA Integrated Admissions : http://www.rymec.edu/Admissions/AdmissionMBAIntegrated.aspx#</li>
+			<li>Have a look over here to view the fee structure for MBA Integrated Admissions : http://www.rymec.edu/Admissions/AdmissionMBAIntegrated.aspx#</li>
+		</random>
+	  </template>
+    </category>
+	
+	<category>
+      <pattern>SEAT DISTRIBUTION ADMISSION MTECH</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the seat distribution for  M.Tech Admissions : http://www.rymec.edu/Admissions/AdmissionMTech.aspx</li>
+			<li>Please goto this link to view the seat distribution for M.Tech Admissions : http://www.rymec.edu/Admissions/AdmissionMTech.aspx</li>
+			<li>Have a look over here to view the seat distribution for M.Tech Admissions : http://www.rymec.edu/Admissions/AdmissionMTech.aspx</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>DOCUMENTS ADMISSION MTECH</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the documents required for M.Tech Admissions : http://www.rymec.edu/Admissions/AdmissionMTech.aspx</li>
+			<li>Please goto this link to view the documents required for M.Tech Admissions : http://www.rymec.edu/Admissions/AdmissionMTech.aspx</li>
+			<li>Have a look over here to view the documents required for M.Tech Admissions : http://www.rymec.edu/Admissions/AdmissionMTech.aspx</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>FEE STRUCTURE MTECH</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the fee structure for M.Tech Admissions : http://www.rymec.edu/Admissions/AdmissionMTech.aspx</li>
+			<li>Please goto this link to view the fee structure required for M.Tech Admissions : http://www.rymec.edu/Admissions/AdmissionMTech.aspx</li>
+			<li>Have a look over here to view the fee structure for M.Tech Admissions : http://www.rymec.edu/Admissions/AdmissionMTech.aspx</li>
+		</random>
+	  </template>
+    </category>
+	
+	<category>
+      <pattern>SEAT DISTRIBUTION ADMISSION MCA</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the seat distribution for  MCA Admissions : http://www.rymec.edu/Admissions/AdmissionMCA.aspx#</li>
+			<li>Please goto this link to view the seat distribution for MCA Admissions : http://www.rymec.edu/Admissions/AdmissionMCA.aspx#</li>
+			<li>Have a look over here to view the seat distribution for MCA Admissions : http://www.rymec.edu/Admissions/AdmissionMCA.aspx#</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>DOCUMENTS REQUIRED ADMISSION MCA</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the documents required for MCA Admissions : http://www.rymec.edu/Admissions/AdmissionMCA.aspx#</li>
+			<li>Please goto this link to view the documents required for MCA Admissions : http://www.rymec.edu/Admissions/AdmissionMCA.aspx#</li>
+			<li>Have a look over here to view the documents required for MCA Admissions : http://www.rymec.edu/Admissions/AdmissionMCA.aspx#</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>FEE STRUCTURE MCA</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the fee structure for MCA Admissions : http://www.rymec.edu/Admissions/AdmissionMCA.aspx#</li>
+			<li>Please goto this link to view the fee structure required for MCA Admissions : http://www.rymec.edu/Admissions/AdmissionMCA.aspx#</li>
+			<li>Have a look over here to view the fee structure for MCA Admissions : http://www.rymec.edu/Admissions/AdmissionMCA.aspx#</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>DOCTORAL PROGRAMMES</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the Doctoral Programmes offered : http://www.rymec.edu/R%20and%20D/PhD-Programme.aspx</li>
+			<li>Please goto this link to view the Doctoral Programmes offered : http://www.rymec.edu/R%20and%20D/PhD-Programme.aspx</li>
+			<li>Have a look over here to view the Doctoral Programmes offered : http://www.rymec.edu/R%20and%20D/PhD-Programme.aspx</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>PHD SUPERVISORS</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the list of PhD supervisors : http://www.rymec.edu/R%20and%20D/PhD-Programme.aspx</li>
+			<li>Please goto this link to view the list of PhD supervisors : http://www.rymec.edu/R%20and%20D/PhD-Programme.aspx</li>
+			<li>Have a look over here to view the list of PhD supervisors : http://www.rymec.edu/R%20and%20D/PhD-Programme.aspx</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>PHD SCHOLARS</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the list of PhD scholars: http://www.rymec.edu/R%20and%20D/PhD-Programme.aspx</li>
+			<li>Please goto this link to view the list of PhD scholars : http://www.rymec.edu/R%20and%20D/PhD-Programme.aspx</li>
+			<li>Have a look over here to view the list of PhD scholars : http://www.rymec.edu/R%20and%20D/PhD-Programme.aspx</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>PHD GUIDELINES</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the PhD programme guidelines: http://www.rymec.edu/R%20and%20D/Docs/PhD%20Admissions%20Guidelines%202018%20v%200.pdf</li>
+			<li>Please goto this link to view the PhD programme guidelines : http://www.rymec.edu/R%20and%20D/Docs/PhD%20Admissions%20Guidelines%202018%20v%200.pdf</li>
+			<li>Have a look over here to view the PhD programme guidelines : http://www.rymec.edu/R%20and%20D/Docs/PhD%20Admissions%20Guidelines%202018%20v%200.pdf</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>UNIVERSITY ORDINANCES</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the university ordinances : http://www.rymec.edu/R%20and%20D/PhD-Programme.aspx</li>
+			<li>Please goto this link to view the university ordinances : http://www.rymec.edu/R%20and%20D/PhD-Programme.aspx</li>
+			<li>Have a look over here to view the university ordinances : http://www.rymec.edu/R%20and%20D/PhD-Programme.aspx</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>ADMISSION NOTIFICATION</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the admission notifications : http://www.rymec.edu/R%20and%20D/PhD-Programme.aspx</li>
+			<li>Please goto this link to view the admission notifications : http://www.rymec.edu/R%20and%20D/PhD-Programme.aspx</li>
+			<li>Have a look over here to view the admission notifications : http://www.rymec.edu/R%20and%20D/PhD-Programme.aspx</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>RESEARCH DEVRLOPMENT CELL</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the details regarding RandD Cell: http://www.rymec.edu/R%20and%20D/RandDCell.aspx</li>
+			<li>Please goto this link to view the details regarding RandD Cell : http://www.rymec.edu/R%20and%20D/RandDCell.aspx</li>
+			<li>Have a look over here to view the details regarding RandD Cell : http://www.rymec.edu/R%20and%20D/RandDCell.aspx</li>
+		</random>
+	  </template>
+    </category>
+	</aiml>
+	
+	
+	
+	

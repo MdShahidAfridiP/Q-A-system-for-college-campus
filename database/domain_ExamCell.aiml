@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+
+<meta name="language" content="en"/>
+	     
+	
+   
+	<category>
+		<pattern>DOCUMENTS ISSUED COE STUDENT PASSES AUTONOMY EXAMS</pattern>
+			<template>
+				<random>
+					<li>Please goto this link to get list of documents : http://rknec.edu/COE/Notices/201718/CertificateDocuments%20from%20CoE%20Office.pdf</li>
+					<li>Have a look over here to get list of documents : http://rknec.edu/COE/Notices/201718/CertificateDocuments%20from%20CoE%20Office.pdf</li>
+					<li>Click on this link to get list of documents : http://rknec.edu/COE/Notices/201718/CertificateDocuments%20from%20CoE%20Office.pdf</li>
+                </random>       
+	   </template>
+	</category>
+	<category>
+		<pattern>FORMAT WRITING APPLICATION COE</pattern>
+		<template>
+			<random>
+				<li>Please goto this link to get the format for writing application to COE : http://rknec.edu/COE/Notices/2017-18/Application%20Form.pdf</li>
+				<li>Have a look over here to get the format for writing application to COE : http://rknec.edu/COE/Notices/2017-18/Application%20Form.pdf</li>
+				<li>Click on this link to get the format for writing application to COE : http://rknec.edu/COE/Notices/2017-18/Application%20Form.pdf</li>
+		    </random>
+	  </template>
+	</category>
+	<category>
+		<pattern>EXAMINATION COMMITTEE</pattern>
+		<template>
+			<random>
+				<li>Please goto this link to get the details about C.O.E : http://www.rknec.edu/Imp%20Links/Exam_Committee.aspx</li>
+				<li>Have a look over here to get the details about C.O.E : http://www.rknec.edu/Imp%20Links/Exam_Committee.aspx</li>
+				<li>Click on this link to get the details about C.O.E : http://www.rknec.edu/Imp%20Links/Exam_Committee.aspx</li>
+		    </random>   
+	  </template>
+	</category>
+	<category>
+		<pattern>LINK RESULTS TIMETABLES</pattern>
+		<template>
+			<random>
+				<li>Please goto this link : https://results.vtu.ac.in</li>
+				<li>Have a look over here : https://results.vtu.ac.in</li>
+				<li>Click on this link : https://results.vtu.ac.in</li>
+		    </random>   
+	  </template>
+	</category>
+</aiml>
+	
+		
